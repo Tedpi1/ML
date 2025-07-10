@@ -1,0 +1,11 @@
+x=25
+x
+print(x)
+print(type(x))
+y=30
+py_sum=x+y
+print(py_sum)
+z=2.4
+py_product=x*z
+print(py_product)
+print(type(py_product))
